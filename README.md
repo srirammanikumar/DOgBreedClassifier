@@ -39,7 +39,7 @@ The dog breeds have indexes from 151 to 268 (both inclusive). so if VGG-16 retur
 CNN model is built from scratch and tested on the test data set of dogs.
 The benchmark for this model is at least 10% accuracy. 
 
-## Use transfer learning 
+### Use transfer learning 
 The final model will be from transfer learning. There are some good models that are fairly accurate in image classification.
 Few of the noteable classifcation algorithms - 
 - AlexNet
